@@ -11,4 +11,5 @@ The first manuscripts we will catalog have material directly relevant for the Ho
 5. urn:cite:bnf:mss.grsupp652
 6. urn:cite:bnf:mss.grsupp663
 7. urn:cite:bsb:mss.cg88
+8. urn:cite:libpal:mss.graec45
 
