@@ -27,7 +27,7 @@ Our first step will be to catalog the folio ranges of different text documents c
 
 We'll be working in the file called 'catalog.csv.' You will see that it is a two-column, comma-separated-value file. The first value is for the Text URN. This an URN value that will indicate the work you find in the manuscript. Be sure to include the reference to the manuscript in your URNs. The first entry in the file is an example template for you to follow. 
 
-  urn:cts:greekLit:tlg0012.tlg0012.msA:
+    urn:cts:greekLit:tlg0012.tlg0012.msA:
   
 This URN refers to the Venetus A version of the *Iliad*
 
