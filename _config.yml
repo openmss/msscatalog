@@ -1,0 +1,35 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Cataloging digital manuscripts
+tagline:          ''
+description:      ''
+
+baseurl: '/msscatalog'
+
+
+author:
+  name:           'Neel Smith'
+ 
+
+paginate:         5
+
+
+version:          0.12.0
+
+
+links:
+  - title: Sources for images
+    url: http://openpaleography.github.io/img_sources
+    external: true
+  - title: Digital manuscripts
+    url: http://openpaleography.github.io/mss
+    external: true
+  - title: Github source
+    url: https://github.com/openpaleography/openpaleography.github.io
+    external: true
