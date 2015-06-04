@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Manuscript contexts
+title:            Manuscript catalogs
 tagline:          'Text contents of digital manuscripts'
 description:      'Cataloging the text contents of manuscripts illustrated by openly licensed digital images'
 
