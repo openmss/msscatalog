@@ -1,14 +1,16 @@
 ---
-title: How to...
+title: How to catalog manuscript contents
 layout: page
 ---
 
+(Rough draft in progress,  posted  ***{{ site.time | date:  '%B %-d, %Y' }}***)
 
-Here is our current database of [citable imgages of manuscripts](http://beta.hpcc.uh.edu/tomcat/mss/photos). 
 
-Additional catalog info on the manuscripts may be found [here](https://github.com/openpaleography/mss/tree/master/collections/mss).There is a csv file for library we have taken images from.
+Here is our current database of [citable images of manuscripts](http://beta.hpcc.uh.edu/tomcat/mss/photos). 
 
-Finally, additional information on the source libraries can be found [here](https://github.com/openpaleography/img_sources/blob/master/sources.md). 
+Additional catalog info on the manuscripts may be found [here](https://github.com/openmss/mss/tree/master/collections/mss).There is a csv file for library we have taken images from.
+
+Finally, additional information on the source libraries can be found [here](https://github.com/openmss/img_sources/blob/master/sources.md). 
 
 ## The Process ##
 
@@ -24,4 +26,4 @@ The second value in the table is for the folio range.
 
 Your task will be to investigate the manuscripts and visually verify the folio ranges for the works they contain. You will be able to find some information in the online resources from which these manuscripts came, but these are somewhat incomplete, hence our need to catalog them completely and explicitly. 
 
-A URN search tool that will help you generate the necessary cts URNs for the text documents. If you have any questions on URN format, or if any issues come up, you can document them in the [issue tracker](https://github.com/openpaleography/msscatalog/issues/new) for this repository.
+A URN search tool that will help you generate the necessary cts URNs for the text documents. If you have any questions on URN format, or if any issues come up, you can document them in the [issue tracker](https://github.com/openmss/msscatalog/issues/new) for this repository.

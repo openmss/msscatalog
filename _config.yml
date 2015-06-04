@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Cataloging digital manuscripts
-tagline:          ''
-description:      ''
+title:            Manuscript contexts
+tagline:          'Text contents of digital manuscripts'
+description:      'Cataloging the text contents of manuscripts illustrated by openly licensed digital images'
 
 baseurl: '/msscatalog'
 
@@ -24,12 +24,9 @@ version:          0.12.0
 
 
 links:
-  - title: Sources for images
-    url: http://openpaleography.github.io/img_sources
+  - title: Open Manuscripts initiative
+    url: http://openmss.github.io/
     external: true
-  - title: Digital manuscripts
-    url: http://openpaleography.github.io/mss
-    external: true
-  - title: Github source
-    url: https://github.com/openpaleography/openpaleography.github.io
+  - title: Github repository for this project
+    url: https://github.com/openmss/msscatalog
     external: true
